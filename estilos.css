@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&family=Urbanist:ital,wght@0,100;0,200;0,500;0,600;0,800;1,100;1,200;1,800&display=swap');
+body
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Urbanist', sans-serif;
+}
+
+h4{
+    
+    font-weight: 800;
+}
+
+
+#div1
+{
+    margin-top: 50px;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(241, 243, 241);
+    border-radius: 20px;
+    box-shadow: 0 10px 40px #00000056;
+    
+}
+
+#div2{
+    text-align: center;
+    align-items: center;
+}
+
+
+#divconsulta2
+{
+    margin-top: 30px;
+    background-color: rgb(245, 245, 245);
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px solid #cccccc;
+    
+}
+
+.card{
+    background-color: rgb(241, 243, 241);
+    border-radius: 10px;
+    box-shadow: 0 10px 40px #00000056;
+}
+
